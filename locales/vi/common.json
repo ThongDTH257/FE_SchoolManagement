@@ -1,0 +1,49 @@
+{
+    "menu": {
+        "student": "Học sinh",
+        "teacher": "Giáo viên",
+        "admin": "Quản trị viên",
+        "contact": "Liên hệ chúng tôi"
+    },
+    "student": {
+        "schedule": "Thời khóa biểu",
+        "atten": "Báo cáo điểm danh",
+        "mark": "Báo cáo điểm"
+    },
+    "teacher": {
+        "atten": "Điểm danh",
+        "mark": "Quản lí điểm",
+        "class": "Diễn đàn"
+    },
+    "day": {
+        "tit": "Thời Khóa Biểu trong tuần",
+        "2": "Thứ Hai",
+        "3": "Thứ Ba",
+        "4": "Thứ Tư",
+        "5": "Thứ Năm",
+        "6": "Thứ Sáu",
+        "7": "Thư Bảy",
+        "8": "Chủ nhật"
+    },
+    "time": {
+        "time": "Thời gian",
+        "y": "Năm học"
+    },
+    "c": {
+        "search": "Tìm kiếm",
+        "setting": "Cài đặt",
+        "cpass": "Đổi mật khẩu",
+        "in4": "Thông tin cá nhân",
+        "out": "Đăng xuất",
+        "register": "Đăng kí tài khoản"
+    },
+    "in4": {
+        "gen": "Giới tính",
+        "m": "Nam",
+        "f": "Nữ",
+        "name": "Tên đầy đủ",
+        "addr": "Địa chỉ",
+        "phone": "Số điện thoại",
+        "dob": "Ngày sinh"
+    }
+}

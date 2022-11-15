@@ -1,0 +1,49 @@
+{
+    "menu": {
+        "student": "Student",
+        "teacher": "Teacher",
+        "admin": "Administrator",
+        "contact": "Contact Us"
+    },
+    "student": {
+        "schedule": "Schedule",
+        "atten": "Attendance Report",
+        "mark": "Mark Report"
+    },
+    "teacher": {
+        "atten": "Attendance taking",
+        "mark": "Mark Management",
+        "class": "Forum"
+    },
+    "day": {
+        "tit": "Schedule for Student",
+        "2": "Monday",
+        "3": "Tuesday",
+        "4": "Wednesday",
+        "5": "Thursday",
+        "6": "Friday",
+        "7": "Saturday",
+        "8": "Sunday"
+    },
+    "time": {
+        "time": "Time",
+        "y": "Year"
+    },
+    "c": {
+        "search": "Search",
+        "setting": "Settings",
+        "cpass": "Change password",
+        "in4": "Profile",
+        "out": "Log Out",
+        "register": "Register a new account"
+    },
+    "in4": {
+        "gen": "Gender",
+        "m": "Male",
+        "f": "Female",
+        "name": "Fullname",
+        "addr": "Address",
+        "phone": "Phone Number",
+        "dob": "Birthday"
+    }
+}
